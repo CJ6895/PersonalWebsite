@@ -19,6 +19,6 @@ Welcome to my personal portfolio website! This project showcases my journey and 
 
 **Feedback & Contributions:** Open issues or submit pull requests for suggestions or improvements. Contributions are welcome!
 
-**Contact:** [your-email@example.com](mailto:carlosjoan.6895@gmail.com)
+**Contact:** [carlosjoan.6895@gmail.com](mailto:carlosjoan.6895@gmail.com)
 
 **Connect with Me:** [GitHub](https://github.com/CJ6895)
