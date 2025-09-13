@@ -1,8 +1,6 @@
 import React from "react";
 import { Button } from "./ui/button";
 import { Mail, ExternalLink } from "lucide-react";
-// Uncomment the line below and comment out the /assets/profile.jpg path if you prefer to import
-// import profileImage from '../assets/profile.jpg';
 
 interface HeroSectionProps {
   onEmailClick: () => void;
@@ -18,7 +16,7 @@ export function HeroSection({
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <img 
-            src="../../src/images/profile.PNG"
+            src="images/profile.PNG"
             alt="Profile photo" 
             className="w-32 h-32 rounded-full mx-auto mb-6 object-cover shadow-lg" 
           />
