@@ -27,7 +27,7 @@ export function HeroSection({
           QA Automation Engineer
         </h2>
         <p className="text-muted-foreground mb-8 max-w-2xl mx-auto">
-          Self-taught QA Automation Engineer with 3 years of
+          Self-taught QA Automation Engineer with 5 years of
           experience in web, mobile, and API automation using
           C#, Selenium, Appium, and xUnit. Passionate about
           continuous learning and building robust test
