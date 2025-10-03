@@ -8,7 +8,7 @@ export function CVSection() {
     {
       title: "QA Automation Engineer",
       company: "Zunzun Solutions LLC",
-      period: "2021 - Present",
+      period: "2020 - Present",
       description:
         "Developed comprehensive test automation frameworks for web, mobile, and API testing. Implemented CI/CD integration, mentored team members on testing best practices, and ensured high-quality software delivery in Agile environments.",
     },
@@ -39,13 +39,13 @@ export function CVSection() {
   const education = [
     {
       degree: "Self-Taught QA Automation Engineer",
-      year: "2021 - Present",
+      year: "2020 - Present",
     },
     {
       degree: "Online Courses & Certifications",
       school:
         "Various Platforms (Udemy, Coursera, Pluralsight)",
-      year: "2021 - Present",
+      year: "2020 - Present",
     },
   ];
 
