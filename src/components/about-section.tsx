@@ -11,7 +11,7 @@ export function AboutSection() {
           <Card className="p-6">
             <h3 className="mb-4">Background</h3>
             <p className="text-muted-foreground mb-4">
-              As a self-taught QA Automation Engineer with 3 years of experience, my journey into technology began 
+              As a self-taught QA Automation Engineer with 5 years of experience, my journey into technology began 
               through curiosity and hands-on learning. I've built my expertise through dedicated practice, online 
               courses, and real-world projects, proving that passion and determination can create meaningful careers.
             </p>
